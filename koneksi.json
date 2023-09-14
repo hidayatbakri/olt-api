@@ -1,6 +1,13 @@
 [
     {
-        "id": "m0rDuNet",
+        "id": "Y3dXUkLR",
+        "host": "sg2.fazznet.co.id",
+        "port": 12980,
+        "username": "root",
+        "password": "123123123"
+    },
+    {
+        "id": "ZAZLlTlL",
         "host": "sg1.fazznet.co.id",
         "port": 12970,
         "username": "admin",

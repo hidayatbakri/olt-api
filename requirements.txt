@@ -4,3 +4,4 @@ uvicorn==0.23.2
 telnetlib3==2.0.4
 annotate==1.0.19
 python-multipart==0.0.6
+deta
